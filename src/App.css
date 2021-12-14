@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #f1f5f8;
+  
+}
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+  font-size:32pt;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  
+}
